@@ -1,0 +1,10 @@
+Metadata-Version: 1.1
+Name: PyPanel
+Version: 3.0a
+Summary: Lightweight panel/taskbar for X11 Window Managers
+Home-page: github.com/olliemath/pypanel3
+Author: Jon Gelo, Oliver Margetts
+Author-email: oliver.margetts@gmail.com
+License: GPL
+Description: See README for more information
+Platform: POSIX
